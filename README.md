@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack web development - Java, JavaScript, Python, C, Dart, and PHP are my tools
 - 🌱 I’m currently persuing MCA from Amrapali University
 - 📫 You can reach me at
-    - ✉️ yanjankaf at gmail
+    - mail : yanjankaf at gmail
     - linkedin : yanjankaf
 
 <!---
