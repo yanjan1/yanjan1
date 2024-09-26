@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yanjan1 (Yanjanendra Kafaltiya)
 - 👀 I’m interested in Full stack web development - Java, JavaScript, Python, C, Dart, and PHP are my tools
 - 🌱 I’m currently persuing MCA from Amrapali University
-- 📫 You can reach me at yanjankaf at gmail
+- 📫 You can reach me at
+    - ✉️ yanjankaf at gmail
+    - linkedin : yanjankaf
 
 <!---
 yanjan1/yanjan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
